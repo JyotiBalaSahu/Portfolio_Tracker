@@ -1,1 +1,1 @@
-Microservice Pattern: BFF(Nackend for Frontend)
+Microservice Pattern: BFF(Backend for Frontend)
